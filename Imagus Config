@@ -1,0 +1,83 @@
+### Imagus 
+		- Firefox: https://addons.mozilla.org/en-US/firefox/addon/imagus/
+		- Google: https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab?hl=en
+
+### Seives: Don't forget to select "Replace existing data" when importing the rule.
+
+# Brazzers - https://www.reddit.com/r/imagus/comments/msniww/wrote_a_sieve_for_brazzers/
+
+
+
+
+
+
+
+# Reddit: 
+1) Image Links - https://www.reddit.com/r/imagus/comments/nltg5x/cant_hover_over_post_links/h0bmba9/
+
+To get post links working again, head to your Sieve, search / open up the "reddit-media" entry, 
+and replace the instance of icon-outboundLink with icon-external_link in the "to" field (the 5th field) 
+— the field with the long script in it. Hit Save, and you should be golden.
+
+Here's the full sieve to script (at time of writing), in case ya just want to copy/paste
+
+:
+if($[2]!==0)return $[2]=='#mp4'?$[0]:$[1]+'#mp4'
+var u,p,c,n=window.location.hostname.slice(-10)=='reddit.com'&&this.node
+if(!n)return''
+if(n.matches('div.link a.thumbnail,div.link a.thumbnail>img, div.link a.title, div.link a.thumbnail.image')) {
+ p=n;while((p=p.parentElement)&&!p.matches('div.link'));
+ u=p.dataset, u=u.url||u.hrefUrl
+ if(u&&/(v\.redd\.it|\.reddit\.com\/gallery)\//.test(u))return u
+ c=p&&p.querySelector('div.expando[data-cachedhtml]')
+ c=c&&c.getAttribute('data-cachedhtml')
+ u=c&&c.match(/(?:<a href|(?:class="preview"|<source) src)="([^"]+)/g)
+ if(u) {
+  u=u.map(function(i){
+   var u=i.slice(i.lastIndexOf('"')+1).replace(/&amp;/g,'&');
+   return u+(i[1]=='s'?'#mp4':'')
+  });
+  u=c.indexOf('<source')!=-1?u.reverse():u
+  return u.length?u.join('\n'):''
+ }
+ u=p.dataset, u=u.url||u.hrefUrl
+}else if(n.matches('a.Post__titleLink')) {
+ u = n.closest('.Post__top').querySelector('a.PostThumbnail').href
+}else if(n.matches('a[data-click-id=body]>div>h3,.Post div>div[role=img]')){
+ p=n.closest('div[id^=t3_]');
+ if(p&&p.querySelector('p,i.icon-text'))return ''
+ p=p.querySelector('a>.icon-external_link')
+ p=p ? p.parentElement : {href: '//www.reddit.com/by_id/t3_'+$[1]+'.json'}
+ p=this.find({href: p.href, IMGS_TRG: n})
+ n.title = n.getAttribute('aria-label') || n.title
+ return (Array.isArray(p) ? p.join('\n') : (p === null ? 'null' : p)) || ''
+}
+return u&&/^(https?:)?\/\/i\.redd\.?it/.test(u)?u:''
+
+# 2) Reddit Media - https://www.reddit.com/r/imagus/comments/mmrx7i/most_redditcom_albums_do_not_load_on_mouseover/gvgdbty/
+
+{"reddit-media":{"link":"^(?:[a-z]{2}(?:-[a-z]{2})?\\.|beta\\.|old\\.)?reddit\\.com/(?:r|user)/[^/]+/comments/([\\da-z]+)/[^/]+/(?:\\?utm_content=(?:title|thumbnail).*)?$","loop":1,"img":"^(g\\.redditmedia\\.com/[\\w-]+\\.gif\\?(?:[^&]+&)*?fm=mp4[^#]*)(.*)","to":":\nif($[2]!==0)return $[2]=='#mp4'?$[0]:$[1]+'#mp4'\nvar u,p,c,n=window.location.hostname.slice(-10)=='reddit.com'&&this.node\nif(!n)return''\nif(n.matches('div.link a.thumbnail,div.link a.thumbnail>img, div.link a.title, div.link a.thumbnail.image')) {\n p=n;while((p=p.parentElement)&&!p.matches('div.link'));\n u=p.dataset, u=u.url||u.hrefUrl\n if(u&&/(v\\.redd\\.it|\\.reddit\\.com\\/gallery)\\//.test(u))return u\n c=p&&p.querySelector('div.expando[data-cachedhtml]')\n c=c&&c.getAttribute('data-cachedhtml')\n u=c&&c.match(/(?:<a href|(?:class=\"preview\"|<source) src)=\"([^\"]+)/g)\n if(u) {\n  u=u.map(function(i){\n   var u=i.slice(i.lastIndexOf('\"')+1).replace(/&amp;/g,'&');\n   return u+(i[1]=='s'?'#mp4':'')\n  });\n  u=c.indexOf('<source')!=-1?u.reverse():u\n  return u.length?u.join('\\n'):''\n }\n u=p.dataset, u=u.url||u.hrefUrl\n}else if(n.matches('a.Post__titleLink')) {\n u = n.closest('.Post__top').querySelector('a.PostThumbnail').href\n}else if(n.matches('a[data-click-id=body]>div>h3,.Post div>div[role=img]')){\n p=n.closest('div[id^=t3_]');\n if(p&&p.querySelector('p,i.icon-text'))return ''\n p=p.querySelector('a>.icon-outboundLink')\n p=p ? p.parentNode : {href: '//www.reddit.com/by_id/t3_'+$[1]+'.json'}\n p=this.find({href: p.href, IMGS_TRG: n})\n n.title = n.getAttribute('aria-label') || n.title\n return (Array.isArray(p) ? p.join('\\n') : (p === null ? 'null' : p)) || ''\n}\nreturn u&&/^(https?:)?\\/\\/i\\.redd\\.?it/.test(u)?u:''"},"reddit-gallery":{"link":"^(reddit\\.com/)gallery/([\\da-z]+).*","url":"https://www.$1by_id/t3_$2.json","res":":\n$=JSON.parse($._).data.children[0].data\nreturn ($.gallery_data && $.gallery_data.items || []).map(function(c, i) {\n var u=$.media_metadata[c.media_id].s\n return [\n  (u.u ? u.u.replace(/preview(\\.redd.it\\/[^?]+).*/, 'i$1') : (u.mp4 ? u.mp4 + '#mp4' : u.gif)),\n  (!i ? '[' + new Date($.created_utc*1e3).toLocaleString() + ' | ' + $.title + '] ' : '') + (c.caption || '')\n ]\n})"},"reddit-post":{"link":"^reddit\\.com/by_id/(t3_[\\da-z]+)","res":":\n$=JSON.parse($._).data.children[0].data\nreturn $.is_video || $.is_gallery ? {loop:$.url} : !0"}}
+
+# 3) Reddit Gallery - https://www.reddit.com/r/imagus/comments/mmrx7i/most_redditcom_albums_do_not_load_on_mouseover/gvgdbty/
+
+{"reddit-gallery":{"link":"^(reddit\\.com/)gallery/([\\da-z]+).*","url":"https://www.$1by_id/t3_$2.json","res":":\n$=JSON.parse($._).data.children[0].data\nreturn ($.gallery_data && $.gallery_data.items || []).map(function(c, i) {\n var u=$.media_metadata[c.media_id].s\n return [\n  (u.u ? u.u.replace(/preview(\\.redd.it\\/[^?]+).*/, 'i$1') : (u.mp4 ? u.mp4 + '#mp4' : u.gif)),\n  (!i ? '[' + new Date($.created_utc*1e3).toLocaleString() + ' | ' + $.title + '] ' : '') + (c.caption || '')\n ]\n})"}}
+
+4) Force HTML - https://greasyfork.org/en/scripts/404717-custom-native-html5-player-with-shortcuts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Twitch: 
+
+{"clips.twitch.tv":{"link":"^(?:clips\\.twitch\\.tv/(?:embed\\?clip=)?|(?:m\\.)?twitch\\.tv/(?:\\w+/)?clip/)([\\w-]+).*","url":": ''","res":":\nvar p = this,x = new XMLHttpRequest\nx.open('POST', 'https://gql.twitch.tv/gql')\nx.timeout = 3000\nx.setRequestHeader('Client-ID', 'kimne78kx3ncx6brgo4mv6wki5h1ko')\nx.send('[{\"operationName\":null,\"variables\":{},\"query\":' + JSON.stringify('{clip(slug:\"' + $[1] + '\"){broadcaster{displayName} createdAt game{name} video{id} title}}') + '},{\"operationName\":\"VideoAccessToken_Clip\",\"variables\":{\"slug\":\"' + $[1] + '\"},\"extensions\":{\"persistedQuery\":{\"version\":1,\"sha256Hash\":\"36b89d2507fce29e5ca551df756d27c1cfe079e2609642b4390aa4c35796eb11\"}}}]');\nx.onloadend = function() {\n const response = JSON.parse(this.responseText);\n const c = response[0].data.clip;\n const c2 = response[1].data.clip;\n const signature = c2.playbackAccessToken.signature;\n const token = JSON.parse(c2.playbackAccessToken.value);\n p.prepareCaption(p.node, '[' + (c.game && c.game.name) + '] ' + [c.title, c.broadcaster && c.broadcaster.displayName, (new Date(c.createdAt)).toLocaleString(), c.video && 'https://twitch.tv/videos/' + c.video.id].filter(Boolean).join(' | '));\n p.set(c2.videoQualities.map(function(v, i) { return (i ? '' : '#') + (v.sourceURL + '?sig=' + signature + '&token=' + encodeURIComponent(JSON.stringify(token)))}));\n}\nreturn null"}}
+
