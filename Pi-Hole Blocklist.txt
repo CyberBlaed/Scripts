@@ -1,3 +1,5 @@
+https://www.reddit.com/r/pihole/comments/nyt6bd/what_are_the_domains_that_you_guys_use_to_block/
+
 
     https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
     https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt
