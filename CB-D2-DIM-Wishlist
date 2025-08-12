@@ -8,30 +8,7 @@ dimwishlist:item=1663482635&perks=1840239774,3230963543,1955165503,555281244,
 
 // Yeartide Apex - Submachine Gun - Season: Reclamation (Season 27, Year 7)
 //notes: Requires testing, Range, Stability, etc.
-dimwishlist:item=3293207827&perks=3661387068,1968497646,3713215006,2890807135,1380061575
-dimwishlist:item=3293207827&perks=3661387068,1561002382,3713215006,2890807135,1380061575
 
-//notes: Max Stable
-dimwishlist:item=3293207827&perks=3661387068,1885400500,
-dimwishlist:item=3293207827&perks=1392496348,1885400500,
-dimwishlist:item=3293207827&perks=1392496348,3230963543,
-
-//notes: Mix Stable/Range
-dimwishlist:item=3293207827&perks=1482024992,1885400500,
-dimwishlist:item=3293207827&perks=4090651448,1885400500,
-dimwishlist:item=3293207827&perks=1482024992,1968497646,
-dimwishlist:item=3293207827&perks=1482024992,1561002382,
-dimwishlist:item=3293207827&perks=1482024992,3230963543,
-dimwishlist:item=3293207827&perks=1482024992,679225683,
-dimwishlist:item=3293207827&perks=4090651448,3230963543,
-dimwishlist:item=3293207827&perks=4090651448,679225683,
-
-//notes: Max Range/Neg Stable
-dimwishlist:item=3293207827&perks=202670084,1885400500,
-dimwishlist:item=3293207827&perks=202670084,3230963543,
-dimwishlist:item=3293207827&perks=202670084,1968497646,
-dimwishlist:item=3293207827&perks=202670084,1561002382,
-dimwishlist:item=3293207827&perks=202670084,679225683,
 
 
 // Boomslang-4fr - Linear Fusion Rifle - Season: Reclamation (Season 27, Year 7)
