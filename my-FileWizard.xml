@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Container version="2">
+  <Name>FileWizard</Name>
+  <Repository>loredcast/filewizard:latest</Repository>
+  <Registry>https://hub.docker.com/r/loredcast/filewizard</Registry>
+  <Network>bridge</Network>
+  <MyIP/>
+  <Shell>sh</Shell>
+  <Privileged>false</Privileged>
+  <Support/>
+  <Project/>
+  <Overview># https://github.com/LoredCast/filewizard&#xD;
+# https://hub.docker.com/r/loredcast/filewizard/&#xD;
+# https://github.com/LoredCast/filewizard/blob/main/docker-compose.yml&#xD;
+&#xD;
+https://old.reddit.com/r/selfhosted/comments/1nlezmf/selfhosted_simple_file_converter_pdf_ocr_and/&#xD;
+&#xD;
+Arch: AMD64 (NO ARM)&#xD;
+AI: CPU Only, GPU Roadmap&#xD;
+&#xD;
+It was built with FastAPI and vanilla frontend, I might port to svelte if the app gets any more complex, but it works for now and is quite light in code. I know it's just a fancy wrapper for existing tools but I don't always have a cli with me to do simple file conversions on the go. &#xD;
+&#xD;
+Right now it uses:&#xD;
+- ocrmypdf, fasterwhisper, libreoffice, pandoc, ghostscript_pdf, calibre, ffmpeg, vips, graphicsmagick, libjxl, resvg, potrace, pngquant, sox and mozjpeg. &#xD;
+&#xD;
+Let me know which tools you like to be added. &#xD;
+You can easily include your own tools by going into the docker image, installing a cli and add an entry to the settings.yml for the command template.&#xD;
+I'm aware of ConvertX, Scriberr and paperless-ngx, &#xD;
+which combined serve the same purpose but I didn't like using them for quick tasks and ConvertX had very little configuration room.&#xD;
+&#xD;
+You can also connect the app to an OAuth provider like authelia or voidauth (I tested with voidauth) for user authentication and per-user history and admin roles.&#xD;
+&#xD;
+NOTE: This is the first release and I do not recommend hosting this publicly unless you know how to setup the authentication and have some understanding of security since I can't be 100% sure that this can't lead to Exmploits since it deals with executing commands on your machine. I've tried my best to make the command wrapper safe but run at your own risk.</Overview>
+  <Category/>
+  <WebUI>http://[IP]:[PORT:8000]</WebUI>
+  <TemplateURL/>
+  <Icon>https://avatars.githubusercontent.com/u/43859792?v=4&amp;amp;size=40</Icon>
+  <ExtraParams/>
+  <PostArgs/>
+  <CPUset/>
+  <DateInstalled>1758349846</DateInstalled>
+  <DonateText/>
+  <DonateLink/>
+  <Requires>Arch: AMD64 (NO ARM)&#xD;
+AI: CPU Only, GPU Roadmap</Requires>
+  <Config Name="LOCAL_ONLY" Target="LOCAL_ONLY" Default="True|False" Mode="" Description="set to False to enable OIDC auth (requires configuration in settings.yml)" Type="Variable" Display="always" Required="false" Mask="false">True</Config>
+  <Config Name="SECRET_KEY" Target="SECRET_KEY" Default="" Mode="" Description="if using auth" Type="Variable" Display="always" Required="false" Mask="true">123456</Config>
+  <Config Name="UPLOADS_DIR=/app/uploads" Target="UPLOADS_DIR" Default="/app/uploads" Mode="" Description="Container Mapping within folder structure" Type="Variable" Display="always" Required="false" Mask="false">/app/uploads</Config>
+  <Config Name="PROCESSED_DIR=/app/processed" Target="PROCESSED_DIR" Default="/app/processed" Mode="" Description="Container Mapping within Folder Structure" Type="Variable" Display="always" Required="false" Mask="false">/app/processed</Config>
+  <Config Name="WebUI" Target="8000" Default="8008" Mode="tcp" Description="Expose the website within the container&#13;&#10;Container Port Default: 8000" Type="Port" Display="always" Required="true" Mask="false">8008</Config>
+  <Config Name="Config_DIR" Target="/app/config" Default="/mnt/cache/AppData/FileWizard/" Mode="rw" Description="Mount local directories and files into the container for persistence&#13;&#10;// you can copy settings.default.yml into here as settings.yml" Type="Path" Display="always" Required="false" Mask="false">/mnt/user/AppData/FileWizard/config</Config>
+  <Config Name="Uploads_DIR" Target="/app/uploads" Default="/mnt/cache/AppData/FileWizard/" Mode="rw" Description="Folder supporting all the uploaded data and temp location" Type="Path" Display="always" Required="false" Mask="false">/mnt/cache/AppData/FileWizard/data</Config>
+  <Config Name="Processed_DIR" Target="/app/processed" Default="/mnt/cache/AppData/FileWizard/" Mode="rw" Description="Folder for Finished/Completed files" Type="Path" Display="always" Required="false" Mask="false">/mnt/cache/AppData/FileWizard/Processed</Config>
+  <Config Name="Container Name" Target="container_name:" Default="FileWizard" Mode="" Description="Just an identification flag for the container" Type="Variable" Display="always" Required="false" Mask="false">FileWizard</Config>
+  <Config Name="UserID" Target="UID" Default="1000" Mode="" Description="User Permissions for Read/Write" Type="Variable" Display="advanced" Required="false" Mask="false">1000</Config>
+  <Config Name="GroupID" Target="GID" Default="1000" Mode="" Description="Group Folder Permissions" Type="Variable" Display="advanced" Required="false" Mask="false">1000</Config>
+  <Config Name="UMASK" Target="UMASK" Default="0002" Mode="" Description="UMASK Folder Permissions Read/Write" Type="Variable" Display="advanced" Required="false" Mask="false">0002</Config>
+  <TailscaleStateDir/>
+</Container>
