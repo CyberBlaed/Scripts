@@ -91,7 +91,6 @@ Barrel: [Smallbore]
 Magazine: [Flared Magwell] 
 Perk 1: [Crystalline Corpsebloom] (also good: Graverobber) 
 Perk 2: [Chaos Reshaped] (Also good: Trench Barrel or One-Two Punch)
-
 Start with Smallbore for Range and Stability, ty and then add extra Stability and Reload Speed from Flared Magwell to ensure Triple Laureate is easy to keep on target and reloads sharply to keep your Guardian doing chunks of damage with this weapon.
 The main perk combination of Crystalline Corpsebloom and Chaos Reshaped is only found on this weapon, which is its main draw.
 It will also help it slot nicely with Stasis buffs and builds to great effect. Crystalline Corpsebloom grants a chance for a Stasis crystal to spawn when defeating an enemy.
@@ -154,7 +153,6 @@ Barrel 	[Fluted Barrel]
 Magazine 	[Ionized Heatsink]
 Perk 1 	[Air Trigger] (also good: Cooling Baubles)
 Perk 2 	[Precision Instrument] (also good: Frenzy)
-
 Uncivil Discourse is an excellent entry into this new weapon type. Hits hard with a generous magazine size, this weapon will do the work in all levels of content.
 We will start by saying that for Hunters, the combination of Lucky Pants, Precision Instrument, and the Holofoil origin trait, Accelerated Assault, produces incredible damage numbers. 
 Currently one of the most chased rolls out there, and while it will still do serious damage to other classes, this is one of the more exciting DPS options currently in-game.
@@ -179,7 +177,6 @@ Haft 	[Auxiliary Reserves]
 Magazine 	[Alloy Magazine]
 Perk 1 	[Repulsor Brace] (also good: Lead from Gold)
 Perk 2 	[Destabilizing Rounds] (also good: Sword Logic)
-
 Since the main draw of glaives is their ridiculous damage resistance, it’s best to boost the uptime of the shield as much as possible, 
 so we’ll go with Auxiliary Reserves and a Shield Duration masterwork to aid in that. 
 Alloy Mag is going to greatly help with reload speed here given the low mag size.
@@ -202,23 +199,19 @@ Barrel 	[Arrowhead Brake]
 Magazine 	[Flared Magwell]
 Perk 1 	[Snapshot Sights]
 Perk 2 	[Aggregate Charge]
-
 We’re going for a version to be used with a wider swap-DPS rotation rather than just sustaining DPS. 
 If you do want to just fire away with it, however, make sure to max out Reload Speed instead of Handling wherever you can. 
 This is crucial to improving the feel of this weapon. Otherwise, Handling is the name of the game here, to make swaps more quickly.
-
 The first perk column hasn’t really got much going for it. Snapshot Sights is good quality of life, 
 especially when enhanced, providing 5 extra points in Stability. 
 But you can practically take any perk here, as the selection is pretty weak.
-
 The second column also leaves a lot to be desired. Our pick is Aggregate Charge, 
 which can give a hefty buff to the weapon but does require setup — but it’s the only real option for DPS perks on this weapon. 
-If you do want to fire away, there is an argument for Box Breathing here, but even then, it requires you to do less damage overall.
-|tags:pve,mkb
+If you do want to fire away, there is an argument for Box Breathing here, but even then, it requires you to do less damage overall.|tags:pve,mkb
 dimwishlist:item=-3661051060&perks=839105230,3230963543,957782887,3764420437
 
 // Refurbished A499
-//notes: (PvP / M+KB): [Tier: B], [MW: Handling],
+//notes: (PvP / M+KB): [Tier: B], [MW: Handling],|tags:pvp,mkb
 dimwishlist:item=-3661051060&perks=1840239774,3177308360,957782887,3513791699,1309453587
 dimwishlist:item=-3661051060&perks=1840239774,3177308360,2579169598,3513791699,1309453587
 
@@ -229,14 +222,11 @@ Barrel 	[Quick Launch]
 Magazine 	[Appended Mag]
 Perk 1 	[Trickle Charge] (also good: Blast Disruptor)
 Perk 2 	[Elemental Honing] (also god: Jolting Feedback)
-
 Given Psi Aeterna IV is a special ammo weapon, we want to maximise the Handling, 
 so Quick Launch and a Handling masterwork are ideal. Appended Mag is our magazine of choice because it offers some auto-reloading features and is the best magazine without any negative trade-offs.
-
 For perks, we recommend Trickle Charge as it allows you to continuously fire the weapon in DPS scenarios where this weapon will likely truly shine. However, if you want something more general, Blast Disruptor is a very suitable alternative. 
 For perk 2, again, focusing on DPS, Elemental Honing is by far the best option. 
-This perk will also simply activate in moment-to-moment gameplay, boosting your damage by a solid amount, particularly if you are on Prismatic. However, if you would rather lean further into Arc, Jolting Feedback is a great alternative.
-|tags:pve,mkb
+This perk will also simply activate in moment-to-moment gameplay, boosting your damage by a solid amount, particularly if you are on Prismatic. However, if you would rather lean further into Arc, Jolting Feedback is a great alternative.|tags:pve,mkb
 dimwishlist:item=-3556730800&perks=3525010810,1087426260,1115162408,1089671869
 dimwishlist:item=-3556730800&perks=3525010810,1087426260,1017229899,1089671869
 dimwishlist:item=-3556730800&perks=3525010810,1087426260,1115162408,3966416502
@@ -249,14 +239,11 @@ Barrel 	[Quick Launch]
 Magazine 	[High-Velocity Rounds]
 Perk 1 	[Auto-Loading Holster] (also good: Wellspring or Heal Clip)
 Perk 2 	[Incandescent] or [Attrition Orbs] (also good: Master of Arms)
-
 As Motif-41 is a Special weapon, you are going to want to realistically maximise the quality of life and feel of the weapon, 
 so Handling and Reload Speed are ideal; therefore, Quick Launch and High-Velocity Rounds are the best picks here.
-
 For perks, Auto-Loading Holster is the go-to for the first column; it is simply too easy to use and straightforward to deny. 
 However, Wellspring is a valid alternative, and Heal Clip is an interesting option too. 
-For perk 2, we suggest Incandescent or Attrition Orbs as they provide the most utility, but Master of Arms is nice for general damage.
-|tags:pve,mkb
+For perk 2, we suggest Incandescent or Attrition Orbs as they provide the most utility, but Master of Arms is nice for general damage.|tags:pve,mkb
 dimwishlist:item=-1685533876&perks=3525010810,2822142346,3300816228,4293542123
 dimwishlist:item=-1685533876&perks=3525010810,2822142346,3592538738,4293542123
 dimwishlist:item=-1685533876&perks=3525010810,2822142346,3017780555,4293542123
@@ -274,11 +261,9 @@ Barrel 	[Fluted Barrel]
 Battery [Liquid Coils] or [Accelerated Coils]
 Perk 1 	[Envious Arsenal] (also good: Reconstruction)
 Perk 2 	[Bait and Switch] (also good: Precision Instrument)
-
 On Mistral Lift, we first take Fluted Barrel as it boosts the Handling and Stability of the weapon, making it easier to use. 
 For the magazine, you can go with either Liquid Coils or Accelerated Coils. The latter will do slightly more damage per second, 
 but Liquid Coils will be more damage overall, however, the actual damage difference between both options is very low. Charge Time is the best masterwork available.
-
 For perks, we suggest Envious Arsenal in the first column as it is an excellent reload perk, however, Reconstruction is an okay backup. 
 Bait and Switch is the go-to for perk 2 as it is the best damage perk available on Mistral Lift, but Precision Instrument is a reasonable backup option.|tags:pve,mkb
 dimwishlist:item=-766122634&perks=1840239774,1687452232,3987942396,3078487919
@@ -297,12 +282,10 @@ Barrel 	[Quick Launch]
 Magazine 	[High-Velocity Rounds]
 Perk 1 	[Envious Arsenal] (also good: Slideshot, Air Trigger)
 Perk 2 	[Elemental Honing] (also good: Aggregate Charge, Bait and Switch)
-
 PvE is where Gizmo Weft shines. Holding the current sandboxes’ most desirable damage perks, there’s so much to unpack with this Grenade Launcher.
 Firstly, use Quick Launch and High-Velocity Rounds to help push Velocity to near maximum. This ensures every grenade launches at great speed to meet its target. 
 The god roll we have landed on pulls from quickly filling the Magazine with Envious Arsenal as you cycle through your damage-dealing weapons and the serious damage of Elemental Honing.
 Dealing damage with both other weapons before returning to Gizmo Weft will ensure the Magazine is refilled and ready for the next blast.
-
 Elemental Honing can reach up to a 35 percent damage increase at 5 stacks, and if you build towards this with Transedent and various elements in your other weapons and abilities, 
 it’s easy to achieve and will pump out solid damage numbers during its 20-second duration.|tags:pve,mkb
 dimwishlist:item=-4069880346&perks=3525010810,2822142346,3987942396,1089671869
@@ -322,11 +305,9 @@ Barrel 	[Fluted Barrel]
 Magazine 	[Overclocked Heatsink]
 Perk 1 	[Vorpal Weapon]
 Perk 2 	[Bait and Switch] (also good: Firing Line)
-
 Sniper Rifles may have fallen down the pecking order in terms of being involved in the meta, but Conspiracy Honed carries a god roll that can do serious damage when rolling. 
 Pick this up with Fluted Barrel for the added Handling, making the weapon ready up quickly when cycling into it. 
 Overclocked Heatsink then adds more Impact, effectively increasing the damage, which is the aim of this weapon.
-
 For the main perks, we set up Vorpal Weapon, adding a 15% damage buff at all times when hitting bosses and minibosses, 
 which includes Champions, and round off with Bait and Switch, which then adds a 30% damage buff when active for 10 seconds. 
 This damage combination hits hard and can help take big chunks of tankier enemies when emptying the Magazine with a volley of precision hits.
@@ -341,11 +322,9 @@ Barrel 	[Fluted Barrel]
 Magazine 	[Ionized Heatsink]
 Perk 1 	[Destabilizing Rounds] (also good: Cooling Baubles)
 Perk 2 	[Thermal Atomization] or [Desperate Measures] (also good: Repulsor Brace)
-
 First and foremost, we’ll need to address that high heat-generating stat. Being at a base of 90 means it doesn’t take long to reach the max, 
 so Ionized Heatsink and a Cooling Efficiency
 Masterwork should knock it down to a more comfortable 60. And as always, Fluted Barrel provides the overall QoL.
-
 Perk 1 has no real competition thanks to Destabilizing Rounds appearing in this column instead of Perk 2, 
 but Cooling Baubles is a solid alternative for dealing with heat buildup. Speaking of Perk 2, you’ll find far more choices here, 
 but we believe Thermal Atomization or Desperate Measures are your best choices to make this weapon the best it can be, 
