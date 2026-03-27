@@ -2,88 +2,48 @@ title:CyberBlaed's Destiny 2 rolls (2026 / 03-March / 27th)
 description: Mainly Following Blue Beréts, but 'Downvoted' My Favourite guns to make them easier to find during play.
 Comments: Remove/Ignore '5th' column, to enable All basic and enhanced perk picks.
           Waiting on Fixes Marked here: https://github.com/DestinyItemManager/DIM/issues/10313
-
 // GunName - GunType - (Season 28, Year 08)
 //notes: Guardian Games 2026 (BlueBerries God)
 
-// Keraunios PvE Season 28 Lawless
-//notes: (PvE / M+KB): [Tier: S] [MW: Handling] 
-(PvE Roll: All-Around), 
-(Fluted Barrel), (Light Battery), 
-[Shoot to Loot] (also good: Supercharged Magazine) 
-[Chain Reaction] (also good: Rolling Storm or Jolting Feedback) Masterwork Handling)
-To improve the feel of Keraunios, we recommend Fluted Barrel, Light Battery, and a Handling Masterwork, boosting the Handling to 84.
-In the first perk slot, Shoot to Loot is an excellent utility option as it allows the Trace Rifle user (who is typically a Cenotaph supporting Warlock) to safely secure Special and Heavy ammo from range.
-Alternatively, if you’d like to lean more into Arc, Supercharged Magazine is a great option. 
-In perk slot 2, we suggest Chain Reaction as it improves the add-clearing capabilities of the weapon by adding some AoE damage, something that Trace Rifles notoriously struggle with.
-However, if you leaned into Arc with Supercharged Magazine, it may make sense to stick with that trend and go for Rolling Storm or Jolting Feedback instead if you want a more subclass-synergistic option.|tags:pve,mkb
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,2396489472,1702976605,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,2396489472,1702976605,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3218042543,1702976605,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3218042543,1702976605,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3966416502,1702976605,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3966416502,1702976605,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,2396489472,2523469161,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,2396489472,2523469161,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3218042543,2523469161,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3218042543,2523469161,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3966416502,2523469161,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3966416502,2523469161,186337601
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,2396489472,1702976605,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,2396489472,1702976605,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3218042543,1702976605,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3218042543,1702976605,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3966416502,1702976605,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3966416502,1702976605,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,2396489472,2523469161,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,2396489472,2523469161,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3218042543,2523469161,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3218042543,2523469161,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3966416502,2523469161,2357520979
-dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3966416502,2523469161,2357520979
+// Keraunios PvE god rolls
+//notes: (PvE / M+KB): [Tier: S],[MW: handling], PvE Roll: All-Around, Barrel 	[Fluted Barrel] Battery [Light Battery], Perk 1 	[Shoot to Loot] (also good: Supercharged Magazine), Perk 2 [Chain Reaction] (also good: Rolling Storm or Jolting Feedback), To improve the feel of Keraunios, we recommend Fluted Barrel, Light Battery, and a Handling Masterwork, boosting the Handling to 84.
+In the first perk slot, Shoot to Loot is an excellent utility option as it allows the Trace Rifle user (who is typically a Cenotaph supporting Warlock) to safely secure Special and Heavy ammo from range. Alternatively, if you’d like to lean more into Arc, Supercharged Magazine is a great option. In perk slot 2, we suggest Chain Reaction as it improves the add-clearing capabilities of the weapon by adding some AoE damage, something that Trace Rifles notoriously struggle with. However, if you leaned into Arc with Supercharged Magazine, it may make sense to stick with that trend and go for Rolling Storm or Jolting Feedback instead if you want a more subclass-synergistic option.|tags:pve,mkb
+dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,2396489472
+dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,2396489472
+dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3218042543
+dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3218042543
+dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3966416502
+dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,3966416502
+dimwishlist:item=-981450701&perks=1840239774,2749775325,3700496672,2396489472
+dimwishlist:item=-981450701&perks=1840239774,2749775325,1511100135,2396489472
+dimwishlist:item=-981450701&perks=1840239774,2749775325,3700496672,3218042543
+dimwishlist:item=-981450701&perks=1840239774,2749775325,1511100135,3218042543
+dimwishlist:item=-981450701&perks=1840239774,2749775325,3700496672,3966416502
+dimwishlist:item=-981450701&perks=1840239774,2749775325,1511100135,3966416502
 
-// The Beacon PvE Season 28 Lawless
-//notes: (PvE / M+KB): [Tier: S], [MW: Charge Time], 
-(PvE Roll: All-Around), 
-(Fluted Barrel), (Accelerated Coils), 
-[Envious Arsenal] or [Demolitionist], (also good: Lead from Gold) 
-[Bait and Switch] or [Reservoir Burst] (also good: Burning Ambition)|tags:pve,mkb
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,3078487919,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,3078487919,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,3078487919,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,1427256713,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,1427256713,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,1427256713,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,2890807135,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,2890807135,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,2890807135,1702976605,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,3078487919,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,3078487919,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,3078487919,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,1427256713,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,1427256713,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,1427256713,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,2890807135,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,2890807135,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,2890807135,2523469161,1431498388
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,3078487919,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,3078487919,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,3078487919,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,1427256713,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,1427256713,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,1427256713,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,2890807135,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,2890807135,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,2890807135,1702976605,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,3078487919,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,3078487919,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,3078487919,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,1427256713,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,1427256713,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,1427256713,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,2890807135,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,2890807135,2523469161,3128594062
-dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,2890807135,2523469161,3128594062
+// The Beacon PvE god roll
+//notes: (PvE / M+KB): [Tier:S],[MW: Charge Time],PvE Roll: All-Around, Barrel	[Fluted Barrel], Battery [Accelerated Coils], Perk 1 [Envious Arsenal] or [Demolitionist] (also good: Lead from Gold) Perk 2 [Bait and Switch] or [Reservoir Burst] (also good: Burning Ambition). Nothing new under the sun here for fusion rifles, so no changes to our go to’s for the first two columns: Fluted Barrel for the added handling and stability, and Accelerated Coils to help you fire a little faster. Perk 1 has pretty much only good choices, but the main ones you’ll want are Envious Arsenal or Demolitionist. Envious Arsenal beats out Rewind Rounds here as fusion rifles aren’t the best for sustained damage, so having your mag always topped off during DPS phases is simply better. Demolitionist is for the explosion junkies as it pairs excellently with one of our Perk 2 choices: Reservoir Burst. These two will clear a room in seconds as you cycle between grenades and the RB procs. As for our other Perk 2 choice, Bait and Switch, this pairs with Envious to help push out a bit of extra damage when needed.
+|tags:pve,mkb
+dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,3078487919
+dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,3078487919
+dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,3078487919
+dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,1427256713
+dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,1427256713
+dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,1427256713
+dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,2890807135
+dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,2890807135
+dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,2890807135
+dimwishlist:item=-76739872&perks=1840239774,689005463,3987942396,3078487919
+dimwishlist:item=-76739872&perks=1840239774,689005463,3523296417,3078487919
+dimwishlist:item=-76739872&perks=1840239774,689005463,1556840489,3078487919
+dimwishlist:item=-76739872&perks=1840239774,689005463,3987942396,1427256713
+dimwishlist:item=-76739872&perks=1840239774,689005463,3523296417,1427256713
+dimwishlist:item=-76739872&perks=1840239774,689005463,1556840489,1427256713
+dimwishlist:item=-76739872&perks=1840239774,689005463,3987942396,2890807135
+dimwishlist:item=-76739872&perks=1840239774,689005463,3523296417,2890807135
+dimwishlist:item=-76739872&perks=1840239774,689005463,1556840489,2890807135
+
+
 
 // Triple Laureate PvE Season 28 Lawless
 //notes: (PvE / M+KB): [Tier: A], [MW: Reload Speed] [Hakke Breach Armaments] 
