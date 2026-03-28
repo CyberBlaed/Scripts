@@ -1,5 +1,5 @@
-title:CyberBlaed's Destiny 2 rolls (2026 / 03-March / 27th)
-description: Mainly Following Blue Beréts, but 'Downvoted' My Favourite guns to make them easier to find during play.
+title:CyberBlade
+description: Destiny 2 rolls (2026 / 03-March / 27th) / Mainly Following Blue Beréts, but 'Downvoted' My Favourite guns to make them easier to find during play.
 Comments: Remove/Ignore '5th' column, to enable All basic and enhanced perk picks.
           Waiting on Fixes Marked here: https://github.com/DestinyItemManager/DIM/issues/10313
 // GunName - GunType - (Season 28, Year 08)
@@ -7,7 +7,7 @@ Comments: Remove/Ignore '5th' column, to enable All basic and enhanced perk pick
 
 // Keraunios PvE god rolls
 //notes: (PvE / M+KB): [Tier: S],[MW: handling], PvE Roll: All-Around, Barrel 	[Fluted Barrel] Battery [Light Battery], Perk 1 	[Shoot to Loot] (also good: Supercharged Magazine), Perk 2 [Chain Reaction] (also good: Rolling Storm or Jolting Feedback), To improve the feel of Keraunios, we recommend Fluted Barrel, Light Battery, and a Handling Masterwork, boosting the Handling to 84.
-In the first perk slot, Shoot to Loot is an excellent utility option as it allows the Trace Rifle user (who is typically a Cenotaph supporting Warlock) to safely secure Special and Heavy ammo from range. Alternatively, if you’d like to lean more into Arc, Supercharged Magazine is a great option. In perk slot 2, we suggest Chain Reaction as it improves the add-clearing capabilities of the weapon by adding some AoE damage, something that Trace Rifles notoriously struggle with. However, if you leaned into Arc with Supercharged Magazine, it may make sense to stick with that trend and go for Rolling Storm or Jolting Feedback instead if you want a more subclass-synergistic option.|tags:pve,mkb
+In the first perk slot, Shoot to Loot is an excellent utility option as it allows the Trace Rifle user (who is typically a Cenotaph supporting Warlock) to safely secure Special and Heavy ammo from range. Alternatively, if you’d like to lean more into Arc, Supercharged Magazine is a great option. In perk slot 2, we suggest Chain Reaction as it improves the add-clearing capabilities of the weapon by adding some AoE damage, something that Trace Rifles notoriously struggle with. However, if you leaned into Arc with Supercharged Magazine, it may make sense to stick with that trend and go for Rolling Storm or Jolting Feedback instead if you want a more subclass-synergistic option.|tags:pve,mkb,cb
 dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,2396489472
 dimwishlist:item=-2386208942&perks=1840239774,2749775325,1511100135,2396489472
 dimwishlist:item=-2386208942&perks=1840239774,2749775325,3700496672,3218042543
@@ -22,8 +22,7 @@ dimwishlist:item=-981450701&perks=1840239774,2749775325,3700496672,3966416502
 dimwishlist:item=-981450701&perks=1840239774,2749775325,1511100135,3966416502
 
 // The Beacon PvE god roll
-//notes: (PvE / M+KB): [Tier:S],[MW: Charge Time],PvE Roll: All-Around, Barrel	[Fluted Barrel], Battery [Accelerated Coils], Perk 1 [Envious Arsenal] or [Demolitionist] (also good: Lead from Gold) Perk 2 [Bait and Switch] or [Reservoir Burst] (also good: Burning Ambition). Nothing new under the sun here for fusion rifles, so no changes to our go to’s for the first two columns: Fluted Barrel for the added handling and stability, and Accelerated Coils to help you fire a little faster. Perk 1 has pretty much only good choices, but the main ones you’ll want are Envious Arsenal or Demolitionist. Envious Arsenal beats out Rewind Rounds here as fusion rifles aren’t the best for sustained damage, so having your mag always topped off during DPS phases is simply better. Demolitionist is for the explosion junkies as it pairs excellently with one of our Perk 2 choices: Reservoir Burst. These two will clear a room in seconds as you cycle between grenades and the RB procs. As for our other Perk 2 choice, Bait and Switch, this pairs with Envious to help push out a bit of extra damage when needed.
-|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier:S],[MW: Charge Time],PvE Roll: All-Around, Barrel	[Fluted Barrel], Battery [Accelerated Coils], Perk 1 [Envious Arsenal] or [Demolitionist] (also good: Lead from Gold) Perk 2 [Bait and Switch] or [Reservoir Burst] (also good: Burning Ambition). Nothing new under the sun here for fusion rifles, so no changes to our go to’s for the first two columns: Fluted Barrel for the added handling and stability, and Accelerated Coils to help you fire a little faster. Perk 1 has pretty much only good choices, but the main ones you’ll want are Envious Arsenal or Demolitionist. Envious Arsenal beats out Rewind Rounds here as fusion rifles aren’t the best for sustained damage, so having your mag always topped off during DPS phases is simply better. Demolitionist is for the explosion junkies as it pairs excellently with one of our Perk 2 choices: Reservoir Burst. These two will clear a room in seconds as you cycle between grenades and the RB procs. As for our other Perk 2 choice, Bait and Switch, this pairs with Envious to help push out a bit of extra damage when needed.|tags:pve,mkb,cb
 dimwishlist:item=-2161618499&perks=1840239774,689005463,3987942396,3078487919
 dimwishlist:item=-2161618499&perks=1840239774,689005463,3523296417,3078487919
 dimwishlist:item=-2161618499&perks=1840239774,689005463,1556840489,3078487919
@@ -46,17 +45,7 @@ dimwishlist:item=-76739872&perks=1840239774,689005463,1556840489,2890807135
 
 
 // Triple Laureate PvE Season 28 Lawless
-//notes: (PvE / M+KB): [Tier: A], [MW: Reload Speed] [Hakke Breach Armaments] 
-Barrel: [Smallbore] 
-Magazine: [Flared Magwell] 
-Perk 1: [Crystalline Corpsebloom] (also good: Graverobber) 
-Perk 2: [Chaos Reshaped] (Also good: Trench Barrel or One-Two Punch)
-Start with Smallbore for Range and Stability, ty and then add extra Stability and Reload Speed from Flared Magwell to ensure Triple Laureate is easy to keep on target and reloads sharply to keep your Guardian doing chunks of damage with this weapon.
-The main perk combination of Crystalline Corpsebloom and Chaos Reshaped is only found on this weapon, which is its main draw.
-It will also help it slot nicely with Stasis buffs and builds to great effect. Crystalline Corpsebloom grants a chance for a Stasis crystal to spawn when defeating an enemy.
-These can be destroyed to cause extra damage or be used for cover if in a tight spot.
-Chaos Reshaped is the biggest pull here as it can activate when this weapon is stowed, reaches a damage buff of 35% if in battle for longer than 22 seconds, and when hitting this,
-it will also heal your character in bursts. This makes this weapon perfect for any level of content.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: A], [MW: Reload Speed] [Hakke Breach Armaments] Barrel: [Smallbore] Magazine: [Flared Magwell] Perk 1: [Crystalline Corpsebloom] (also good: Graverobber) Perk 2: [Chaos Reshaped] (Also good: Trench Barrel or One-Two Punch) Start with Smallbore for Range and Stability, ty and then add extra Stability and Reload Speed from Flared Magwell to ensure Triple Laureate is easy to keep on target and reloads sharply to keep your Guardian doing chunks of damage with this weapon.The main perk combination of Crystalline Corpsebloom and Chaos Reshaped is only found on this weapon, which is its main draw.It will also help it slot nicely with Stasis buffs and builds to great effect. Crystalline Corpsebloom grants a chance for a Stasis crystal to spawn when defeating an enemy.These can be destroyed to cause extra damage or be used for cover if in a tight spot.Chaos Reshaped is the biggest pull here as it can activate when this weapon is stowed, reaches a damage buff of 35% if in battle for longer than 22 seconds, and when hitting this,it will also heal your character in bursts. This makes this weapon perfect for any level of content.|tags:pve,mkb,cb
 dimwishlist:item=-1605599021&perks=1482024992,3230963543,2922950962,3640170453,1702976605,178753455
 dimwishlist:item=-1605599021&perks=1482024992,3230963543,1631667848,3640170453,1702976605,178753455
 dimwishlist:item=-1605599021&perks=1482024992,3230963543,2922950962,2360754333,1702976605,178753455
@@ -107,20 +96,7 @@ dimwishlist:item=-1605599021&perks=1482024992,3230963543,2922950962,2679249093,2
 dimwishlist:item=-1605599021&perks=1482024992,3230963543,1631667848,2679249093,250902314,758092021
 
 // Uncivil Discourse
-//notes: (PvE / M+KB): [Tier: S][MW: Cooling Efficiency],[Accelerated Assault]
-PvE Roll: All-Around
-Barrel 	[Fluted Barrel]
-Magazine 	[Ionized Heatsink]
-Perk 1 	[Air Trigger] (also good: Cooling Baubles)
-Perk 2 	[Precision Instrument] (also good: Frenzy)
-Uncivil Discourse is an excellent entry into this new weapon type. Hits hard with a generous magazine size, this weapon will do the work in all levels of content.
-We will start by saying that for Hunters, the combination of Lucky Pants, Precision Instrument, and the Holofoil origin trait, Accelerated Assault, produces incredible damage numbers. 
-Currently one of the most chased rolls out there, and while it will still do serious damage to other classes, this is one of the more exciting DPS options currently in-game.
-Start with Fluted Barrel and Ionized Heatsink, which pushes Handling to near max for a light and snappy feel when switching to this weapon, and the Battery will reduce heat generated, 
-allowing more shots to be fired before an overheat.
-For the main perks, Air Trigger fits nicely in the first slot, mainly for its added boost to Reload Speed. Just remember to do a little jump to ensures you get the best out of it. 
-Finish off with Precision Instrument, which rewards an accurate hand by adding a damage bonus for each shot on target. Be careful, as missing will reset the buff. 
-Maxes out at 25% and keeps rolling until a shot is missed or you need to reload, so this buff can last a sizeable amount of time and take massive chunks off your enemies.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S][MW: Cooling Efficiency],[Accelerated Assault] PvE Roll: All-Around Barrel [Fluted Barrel] Magazine [Ionized Heatsink] Perk 1 [Air Trigger] (also good: Cooling Baubles) Perk 2 [Precision Instrument] (also good: Frenzy) Uncivil Discourse is an excellent entry into this new weapon type. Hits hard with a generous magazine size, this weapon will do the work in all levels of content.We will start by saying that for Hunters, the combination of Lucky Pants, Precision Instrument, and the Holofoil origin trait, Accelerated Assault, produces incredible damage numbers. Currently one of the most chased rolls out there, and while it will still do serious damage to other classes, this is one of the more exciting DPS options currently in-game. Start with Fluted Barrel and Ionized Heatsink, which pushes Handling to near max for a light and snappy feel when switching to this weapon, and the Battery will reduce heat generated,  allowing more shots to be fired before an overheat. For the main perks, Air Trigger fits nicely in the first slot, mainly for its added boost to Reload Speed. Just remember to do a little jump to ensures you get the best out of it. Finish off with Precision Instrument, which rewards an accurate hand by adding a damage bonus for each shot on target. Be careful, as missing will reset the buff. Maxes out at 25% and keeps rolling until a shot is missed or you need to reload, so this buff can last a sizeable amount of time and take massive chunks off your enemies.|tags:pve,mkb,cb
 dimwishlist:item=-3146657389&perks=1840239774,807993149,1421772400,555281244,3713579091
 dimwishlist:item=-3146657389&perks=1840239774,807993149,3932949589,555281244,3713579091
 dimwishlist:item=-3146657389&perks=1840239774,807993149,1421772400,4104185692,3713579091
@@ -131,79 +107,30 @@ dimwishlist:item=-3146657389&perks=1840239774,807993149,1421772400,4104185692,26
 dimwishlist:item=-3146657389&perks=1840239774,807993149,3932949589,4104185692,2671305723
 
 // The Heron
-//notes: (PvE / M+KB): [Tier: S], [MW: Shield Duration], [Nail, Meet Hammer]
-PvE Roll: All-Around
-Haft 	[Auxiliary Reserves]
-Magazine 	[Alloy Magazine]
-Perk 1 	[Repulsor Brace] (also good: Lead from Gold)
-Perk 2 	[Destabilizing Rounds] (also good: Sword Logic)
-Since the main draw of glaives is their ridiculous damage resistance, it’s best to boost the uptime of the shield as much as possible, 
-so we’ll go with Auxiliary Reserves and a Shield Duration masterwork to aid in that. 
-Alloy Mag is going to greatly help with reload speed here given the low mag size.
-For Perk 1, Repulsor Brace is your best choice, bar none. The shield from the glaive already provides 97.5% damage resistance, 
-but that’s only while active, so what better way to keep you in the fight than by getting a second source of DR? 
-And how will you keep Repulsor Brace active? 
-Through our Perk 2 choice, Destabilizing Rounds. 
-These two are a welcome sight on any weapon, and now that it’s finally on a glaive, 
-you can really lean into that CQC fantasy without needing to fully commit to a melee build.
-|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S], [MW: Shield Duration], [Nail, Meet Hammer] PvE Roll: All-Around Haft [Auxiliary Reserves] Magazine [Alloy Magazine] Perk 1 [Repulsor Brace] (also good: Lead from Gold) Perk 2 	[Destabilizing Rounds] (also good: Sword Logic)Since the main draw of glaives is their ridiculous damage resistance, it’s best to boost the uptime of the shield as much as possible, so we’ll go with Auxiliary Reserves and a Shield Duration masterwork to aid in that. Alloy Mag is going to greatly help with reload speed here given the low mag size.For Perk 1, Repulsor Brace is your best choice, bar none. The shield from the glaive already provides 97.5% damage resistance, but that’s only while active, so what better way to keep you in the fight than by getting a second source of DR? And how will you keep Repulsor Brace active? Through our Perk 2 choice, Destabilizing Rounds. These two are a welcome sight on any weapon, and now that it’s finally on a glaive, you can really lean into that CQC fantasy without needing to fully commit to a melee build.|tags:pve,mkb,cb
 dimwishlist:item=-2246386812&perks=580685494,1431678320,776531651,2048641572
 dimwishlist:item=-2246386812&perks=580685494,1431678320,1556840489,2048641572
 dimwishlist:item=-2246386812&perks=580685494,1431678320,776531651,31345821
 dimwishlist:item=-2246386812&perks=580685494,1431678320,1556840489,31345821
 
 // Refurbished A499
-//notes: (PvE / M+KB): [Tier: S], [MW: Handling],
-PvE Roll: All-Around
-Barrel 	[Arrowhead Brake]
-Magazine 	[Flared Magwell]
-Perk 1 	[Snapshot Sights]
-Perk 2 	[Aggregate Charge]
-We’re going for a version to be used with a wider swap-DPS rotation rather than just sustaining DPS. 
-If you do want to just fire away with it, however, make sure to max out Reload Speed instead of Handling wherever you can. 
-This is crucial to improving the feel of this weapon. Otherwise, Handling is the name of the game here, to make swaps more quickly.
-The first perk column hasn’t really got much going for it. Snapshot Sights is good quality of life, 
-especially when enhanced, providing 5 extra points in Stability. 
-But you can practically take any perk here, as the selection is pretty weak.
-The second column also leaves a lot to be desired. Our pick is Aggregate Charge, 
-which can give a hefty buff to the weapon but does require setup — but it’s the only real option for DPS perks on this weapon. 
-If you do want to fire away, there is an argument for Box Breathing here, but even then, it requires you to do less damage overall.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S], [MW: Handling], PvE Roll: All-Around Barrel [Arrowhead Brake] Magazine [Flared Magwell] Perk 1 	[Snapshot Sights] Perk 2 [Aggregate Charge] We’re going for a version to be used with a wider swap-DPS rotation rather than just sustaining DPS. If you do want to just fire away with it, however, make sure to max out Reload Speed instead of Handling wherever you can. This is crucial to improving the feel of this weapon. Otherwise, Handling is the name of the game here, to make swaps more quickly.The first perk column hasn’t really got much going for it. Snapshot Sights is good quality of life, especially when enhanced, providing 5 extra points in Stability. But you can practically take any perk here, as the selection is pretty weak.The second column also leaves a lot to be desired. Our pick is Aggregate Charge, which can give a hefty buff to the weapon but does require setup — but it’s the only real option for DPS perks on this weapon. If you do want to fire away, there is an argument for Box Breathing here, but even then, it requires you to do less damage overall.|tags:pve,mkb,cb
 dimwishlist:item=-3661051060&perks=839105230,3230963543,957782887,3764420437
 
 // Refurbished A499
-//notes: (PvP / M+KB): [Tier: B], [MW: Handling],|tags:pvp,mkb
+//notes: (PvP / M+KB): [Tier: B], [MW: Handling],|tags:pvp,mkb,cb
 dimwishlist:item=-3661051060&perks=1840239774,3177308360,957782887,3513791699,1309453587
 dimwishlist:item=-3661051060&perks=1840239774,3177308360,2579169598,3513791699,1309453587
 
 // Psi Aeterna IV
-//notes: (PvE / M+KB): [Tier: S] [MW: Handling] [Origin: Vanguard Determination or Accelerated Assault]
-PvE Roll: All-Around
-Barrel 	[Quick Launch]
-Magazine 	[Appended Mag]
-Perk 1 	[Trickle Charge] (also good: Blast Disruptor)
-Perk 2 	[Elemental Honing] (also god: Jolting Feedback)
-Given Psi Aeterna IV is a special ammo weapon, we want to maximise the Handling, 
-so Quick Launch and a Handling masterwork are ideal. Appended Mag is our magazine of choice because it offers some auto-reloading features and is the best magazine without any negative trade-offs.
-For perks, we recommend Trickle Charge as it allows you to continuously fire the weapon in DPS scenarios where this weapon will likely truly shine. However, if you want something more general, Blast Disruptor is a very suitable alternative. 
-For perk 2, again, focusing on DPS, Elemental Honing is by far the best option. 
-This perk will also simply activate in moment-to-moment gameplay, boosting your damage by a solid amount, particularly if you are on Prismatic. However, if you would rather lean further into Arc, Jolting Feedback is a great alternative.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S] [MW: Handling] [Origin: Vanguard Determination or Accelerated Assault] PvE Roll: All-Around Barrel 	[Quick Launch] Magazine 	[Appended Mag] Perk 1 	[Trickle Charge] (also good: Blast Disruptor) Perk 2 	[Elemental Honing] (also god: Jolting Feedback) Given Psi Aeterna IV is a special ammo weapon, we want to maximise the Handling, so Quick Launch and a Handling masterwork are ideal. Appended Mag is our magazine of choice because it offers some auto-reloading features and is the best magazine without any negative trade-offs.For perks, we recommend Trickle Charge as it allows you to continuously fire the weapon in DPS scenarios where this weapon will likely truly shine. However, if you want something more general, Blast Disruptor is a very suitable alternative. For perk 2, again, focusing on DPS, Elemental Honing is by far the best option. This perk will also simply activate in moment-to-moment gameplay, boosting your damage by a solid amount, particularly if you are on Prismatic. However, if you would rather lean further into Arc, Jolting Feedback is a great alternative.|tags:pve,mkb,cb
 dimwishlist:item=-3556730800&perks=3525010810,1087426260,1115162408,1089671869
 dimwishlist:item=-3556730800&perks=3525010810,1087426260,1017229899,1089671869
 dimwishlist:item=-3556730800&perks=3525010810,1087426260,1115162408,3966416502
 dimwishlist:item=-3556730800&perks=3525010810,1087426260,1017229899,3966416502
 
 // Motif-41 PvE god rolls
-//notes: (PvE / M+KB): [Tier: S], [MW: Handling] [Origin: Suros Synergy]
-PvE Roll: All-Around
-Barrel 	[Quick Launch]
-Magazine 	[High-Velocity Rounds]
-Perk 1 	[Auto-Loading Holster] (also good: Wellspring or Heal Clip)
-Perk 2 	[Incandescent] or [Attrition Orbs] (also good: Master of Arms)
-As Motif-41 is a Special weapon, you are going to want to realistically maximise the quality of life and feel of the weapon, 
-so Handling and Reload Speed are ideal; therefore, Quick Launch and High-Velocity Rounds are the best picks here.
-For perks, Auto-Loading Holster is the go-to for the first column; it is simply too easy to use and straightforward to deny. 
-However, Wellspring is a valid alternative, and Heal Clip is an interesting option too. 
-For perk 2, we suggest Incandescent or Attrition Orbs as they provide the most utility, but Master of Arms is nice for general damage.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S], [MW: Handling] [Origin: Suros Synergy] PvE Roll: All-Around Barrel 	[Quick Launch] Magazine 	[High-Velocity Rounds] Perk 1 	[Auto-Loading Holster] (also good: Wellspring or Heal Clip) Perk 2 	[Incandescent] or [Attrition Orbs] (also good: Master of Arms)As Motif-41 is a Special weapon, you are going to want to realistically maximise the quality of life and feel of the weapon, so Handling and Reload Speed are ideal; therefore, Quick Launch and High-Velocity Rounds are the best picks here.For perks, Auto-Loading Holster is the go-to for the first column; it is simply too easy to use and straightforward to deny. However, Wellspring is a valid alternative, and Heal Clip is an interesting option too. For perk 2, we suggest Incandescent or Attrition Orbs as they provide the most utility, but Master of Arms is nice for general damage.|tags:pve,mkb,cb
 dimwishlist:item=-1685533876&perks=3525010810,2822142346,3300816228,4293542123
 dimwishlist:item=-1685533876&perks=3525010810,2822142346,3592538738,4293542123
 dimwishlist:item=-1685533876&perks=3525010810,2822142346,3017780555,4293542123
@@ -215,17 +142,7 @@ dimwishlist:item=-1685533876&perks=3525010810,2822142346,3592538738,3081867624
 dimwishlist:item=-1685533876&perks=3525010810,2822142346,3017780555,3081867624
 
 // Mistral Lift PvE god rolls
-//notes: (PvE / M+KB): [Tier: S], [MW: Charge Time], [Origin: Veist Stinger]
-PvE Roll: All-Around
-Barrel 	[Fluted Barrel]
-Battery [Liquid Coils] or [Accelerated Coils]
-Perk 1 	[Envious Arsenal] (also good: Reconstruction)
-Perk 2 	[Bait and Switch] (also good: Precision Instrument)
-On Mistral Lift, we first take Fluted Barrel as it boosts the Handling and Stability of the weapon, making it easier to use. 
-For the magazine, you can go with either Liquid Coils or Accelerated Coils. The latter will do slightly more damage per second, 
-but Liquid Coils will be more damage overall, however, the actual damage difference between both options is very low. Charge Time is the best masterwork available.
-For perks, we suggest Envious Arsenal in the first column as it is an excellent reload perk, however, Reconstruction is an okay backup. 
-Bait and Switch is the go-to for perk 2 as it is the best damage perk available on Mistral Lift, but Precision Instrument is a reasonable backup option.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S], [MW: Charge Time], [Origin: Veist Stinger] PvE Roll: All-Around Barrel 	[Fluted Barrel]Battery [Liquid Coils] or [Accelerated Coils]Perk 1 	[Envious Arsenal] (also good: Reconstruction)Perk 2 	[Bait and Switch] (also good: Precision Instrument)On Mistral Lift, we first take Fluted Barrel as it boosts the Handling and Stability of the weapon, making it easier to use. For the magazine, you can go with either Liquid Coils or Accelerated Coils. The latter will do slightly more damage per second, but Liquid Coils will be more damage overall, however, the actual damage difference between both options is very low. Charge Time is the best masterwork available.For perks, we suggest Envious Arsenal in the first column as it is an excellent reload perk, however, Reconstruction is an okay backup. Bait and Switch is the go-to for perk 2 as it is the best damage perk available on Mistral Lift, but Precision Instrument is a reasonable backup option.|tags:pve,mkb,cb
 dimwishlist:item=-766122634&perks=1840239774,1687452232,3987942396,3078487919
 dimwishlist:item=-766122634&perks=1840239774,689005463,3987942396,3078487919
 dimwishlist:item=-766122634&perks=1840239774,1687452232,1523832109,3078487919
@@ -236,18 +153,7 @@ dimwishlist:item=-766122634&perks=1840239774,1687452232,1523832109,555281244
 dimwishlist:item=-766122634&perks=1840239774,689005463,1523832109,555281244
 
 // Gizmo Weft PvE god rolls
-//notes: (PvE / M+KB): [Tier: S], [MW: Handling], [Origin: COntending Cascade]
-PvE Roll: All-Around
-Barrel 	[Quick Launch]
-Magazine 	[High-Velocity Rounds]
-Perk 1 	[Envious Arsenal] (also good: Slideshot, Air Trigger)
-Perk 2 	[Elemental Honing] (also good: Aggregate Charge, Bait and Switch)
-PvE is where Gizmo Weft shines. Holding the current sandboxes’ most desirable damage perks, there’s so much to unpack with this Grenade Launcher.
-Firstly, use Quick Launch and High-Velocity Rounds to help push Velocity to near maximum. This ensures every grenade launches at great speed to meet its target. 
-The god roll we have landed on pulls from quickly filling the Magazine with Envious Arsenal as you cycle through your damage-dealing weapons and the serious damage of Elemental Honing.
-Dealing damage with both other weapons before returning to Gizmo Weft will ensure the Magazine is refilled and ready for the next blast.
-Elemental Honing can reach up to a 35 percent damage increase at 5 stacks, and if you build towards this with Transedent and various elements in your other weapons and abilities, 
-it’s easy to achieve and will pump out solid damage numbers during its 20-second duration.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S], [MW: Handling], [Origin: COntending Cascade] PvE Roll: All-AroundBarrel 	[Quick Launch]Magazine 	[High-Velocity Rounds]Perk 1 	[Envious Arsenal] (also good: Slideshot, Air Trigger)Perk 2 	[Elemental Honing] (also good: Aggregate Charge, Bait and Switch)PvE is where Gizmo Weft shines. Holding the current sandboxes’ most desirable damage perks, there’s so much to unpack with this Grenade Launcher.Firstly, use Quick Launch and High-Velocity Rounds to help push Velocity to near maximum. This ensures every grenade launches at great speed to meet its target. The god roll we have landed on pulls from quickly filling the Magazine with Envious Arsenal as you cycle through your damage-dealing weapons and the serious damage of Elemental Honing.Dealing damage with both other weapons before returning to Gizmo Weft will ensure the Magazine is refilled and ready for the next blast.Elemental Honing can reach up to a 35 percent damage increase at 5 stacks, and if you build towards this with Transedent and various elements in your other weapons and abilities, it’s easy to achieve and will pump out solid damage numbers during its 20-second duration.|tags:pve,mkb,cb
 dimwishlist:item=-4069880346&perks=3525010810,2822142346,3987942396,1089671869
 dimwishlist:item=-4069880346&perks=3525010810,2822142346,3161816588,1089671869
 dimwishlist:item=-4069880346&perks=3525010810,2822142346,1421772400,1089671869
@@ -259,36 +165,12 @@ dimwishlist:item=-4069880346&perks=3525010810,2822142346,3161816588,3078487919
 dimwishlist:item=-4069880346&perks=3525010810,2822142346,1421772400,3078487919
 
 // Conspiracy Honed PvE god rolls
-//notes: (PvE / M+KB): [Tier: S], [MW: Handling],
-PvE Roll: All-Around
-Barrel 	[Fluted Barrel]
-Magazine 	[Overclocked Heatsink]
-Perk 1 	[Vorpal Weapon]
-Perk 2 	[Bait and Switch] (also good: Firing Line)
-Sniper Rifles may have fallen down the pecking order in terms of being involved in the meta, but Conspiracy Honed carries a god roll that can do serious damage when rolling. 
-Pick this up with Fluted Barrel for the added Handling, making the weapon ready up quickly when cycling into it. 
-Overclocked Heatsink then adds more Impact, effectively increasing the damage, which is the aim of this weapon.
-For the main perks, we set up Vorpal Weapon, adding a 15% damage buff at all times when hitting bosses and minibosses, 
-which includes Champions, and round off with Bait and Switch, which then adds a 30% damage buff when active for 10 seconds. 
-This damage combination hits hard and can help take big chunks of tankier enemies when emptying the Magazine with a volley of precision hits.
-|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S], [MW: Handling],PvE Roll: All-AroundBarrel 	[Fluted Barrel]Magazine 	[Overclocked Heatsink]Perk 1 	[Vorpal Weapon]Perk 2 	[Bait and Switch] (also good: Firing Line)Sniper Rifles may have fallen down the pecking order in terms of being involved in the meta, but Conspiracy Honed carries a god roll that can do serious damage when rolling. Pick this up with Fluted Barrel for the added Handling, making the weapon ready up quickly when cycling into it. Overclocked Heatsink then adds more Impact, effectively increasing the damage, which is the aim of this weapon.For the main perks, we set up Vorpal Weapon, adding a 15% damage buff at all times when hitting bosses and minibosses, which includes Champions, and round off with Bait and Switch, which then adds a 30% damage buff when active for 10 seconds. This damage combination hits hard and can help take big chunks of tankier enemies when emptying the Magazine with a volley of precision hits.|tags:pve,mkb,cb
 dimwishlist:item=-4062069077&perks=1840239774,1092016998,1546637391,3078487919
 dimwishlist:item=-4062069077&perks=1840239774,1092016998,1546637391,1771339417
 
 // Compact Defender PvE god rolls
-//notes: (PvE / M+KB): [Tier: S], [MW: Cooling Efficency]
-PvE Roll: All-Around
-Barrel 	[Fluted Barrel]
-Magazine 	[Ionized Heatsink]
-Perk 1 	[Destabilizing Rounds] (also good: Cooling Baubles)
-Perk 2 	[Thermal Atomization] or [Desperate Measures] (also good: Repulsor Brace)
-First and foremost, we’ll need to address that high heat-generating stat. Being at a base of 90 means it doesn’t take long to reach the max, 
-so Ionized Heatsink and a Cooling Efficiency
-Masterwork should knock it down to a more comfortable 60. And as always, Fluted Barrel provides the overall QoL.
-Perk 1 has no real competition thanks to Destabilizing Rounds appearing in this column instead of Perk 2, 
-but Cooling Baubles is a solid alternative for dealing with heat buildup. Speaking of Perk 2, you’ll find far more choices here, 
-but we believe Thermal Atomization or Desperate Measures are your best choices to make this weapon the best it can be, 
-especially with the high heat stat making TA up almost always.|tags:pve,mkb
+//notes: (PvE / M+KB): [Tier: S], [MW: Cooling Efficency] PvE Roll: All-Around Barrel 	[Fluted Barrel]Magazine 	[Ionized Heatsink]Perk 1 	[Destabilizing Rounds] (also good: Cooling Baubles)Perk 2 	[Thermal Atomization] or [Desperate Measures] (also good: Repulsor Brace)First and foremost, we’ll need to address that high heat-generating stat. Being at a base of 90 means it doesn’t take long to reach the max, so Ionized Heatsink and a Cooling EfficiencyMasterwork should knock it down to a more comfortable 60. And as always, Fluted Barrel provides the overall QoL.Perk 1 has no real competition thanks to Destabilizing Rounds appearing in this column instead of Perk 2, but Cooling Baubles is a solid alternative for dealing with heat buildup. Speaking of Perk 2, you’ll find far more choices here, but we believe Thermal Atomization or Desperate Measures are your best choices to make this weapon the best it can be, especially with the high heat stat making TA up almost always.|tags:pve,mkb,cb
 dimwishlist:item=-2819552809&perks=1840239774,807993149,2048641572,1909124648
 dimwishlist:item=-2819552809&perks=1840239774,807993149,3932949589,1909124648
 dimwishlist:item=-2819552809&perks=1840239774,807993149,2048641572,2109543898
